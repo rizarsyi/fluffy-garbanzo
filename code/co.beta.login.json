@@ -354,7 +354,7 @@
 				},
 				"skake": false
 			},
-			"selected": true,
+			"selected": false,
 			"dragging": false,
 			"positionAbsolute": {
 				"x": 220.82574009907842,
@@ -405,9 +405,11 @@
 						}
 					],
 					"callType": "Call static method",
-					"arguments": "authResult",
+					"arguments": [
+						"authResult"
+					],
 					"logMessage": "",
-					"templatePath": "login.ftlh",
+					"templatePath": "signin.ftlh",
 					"maxIteration": "",
 					"idpAuthEndpoint": "",
 					"variableField": "",
@@ -430,7 +432,7 @@
 				},
 				"skake": false
 			},
-			"selected": false,
+			"selected": true,
 			"positionAbsolute": {
 				"x": 20.825740099078416,
 				"y": 341.9847126853167
