@@ -15,7 +15,8 @@
     ],
     "configs": {
         "co.gluu.openid": {},
-        "co.beta.login": {}
+        "co.beta.login": {},
+        "": {}
     },
     "noDirectLaunch": [],
     "name": "demo"
